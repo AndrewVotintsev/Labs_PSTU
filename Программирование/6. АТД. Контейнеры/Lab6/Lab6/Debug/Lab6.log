@@ -1,0 +1,5 @@
+﻿  Lab6.cpp
+  Multiplicity.cpp
+  Создание кода...
+C:\Users\Andrey\Desktop\Моё\Лабораторки Программирование\Lab6\Lab6\Multiplicity.cpp(103): warning C4715: Multiplicity::operator[]: значение возвращается не при всех путях выполнения
+  Lab6.vcxproj -> C:\Users\Andrey\Desktop\Моё\Лабораторки Программирование\Lab6\Debug\Lab6.exe
