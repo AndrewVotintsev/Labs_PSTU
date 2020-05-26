@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Lab9\main.cpp(96,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Lab9\main.cpp(97,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Lab9\main.cpp(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Lab9\main.cpp(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Lab9\main.cpp(47,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Lab9\main.cpp(57,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Lab9\main.cpp(83,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Lab9.vcxproj -> C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab9\Debug\Lab9.exe

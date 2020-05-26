@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab10\Lab10\main.cpp(23,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab10\Lab10\main.cpp(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab10\Lab10\main.cpp(56,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Lab10.vcxproj -> C:\Users\Andrey\Desktop\Моё\Лабораторки информатика 1, 2-ой семестр\Lab10\Debug\Lab10.exe
